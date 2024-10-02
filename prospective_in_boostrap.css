@@ -1,0 +1,69 @@
+#top-bar,#foot{
+    background-color: #082A4A;
+}
+#hero{
+    background-image: url(mainphoto.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: calc(100vh - 165px);
+    background-color: #082A4A;
+}
+header ul li a.nav-link{
+    color: #808080;
+}
+header ul li a.Home{
+    color: black;
+}
+#hero{
+    color: white;
+}
+#hero .row a.btn, #feedback a.btn{
+    background-color: #2f82D0;
+    color: white;
+}
+.mess img{
+    width: 50px;
+    height: 50px;
+}
+#detail p, #mission p{
+    color: #212529;
+}
+#service, #feedback{
+    background-color: #EEF2F6;
+}
+#service .independent{
+    color: white;
+}
+#service .living{
+    background-color: #922278;
+}
+#service .care{
+    background-color: #C33E8B;
+}
+#service .support{
+    background-color: #E95058;
+}
+#service .social{
+    background-color: #F9B107;
+}
+#service .religious{
+    background-color: #94CA5F;
+}
+#service .outing{
+    background-color: #048FA3;
+}
+
+#service .transpotation{
+    background-color: #95D0DE;
+}
+#service .skill{
+    background-color: #2EAEA9;
+}
+#mission .mission img{
+    width: 40px;
+    height: 40px;
+}
+#feedback .width{
+    width: 48.2%;
+}
